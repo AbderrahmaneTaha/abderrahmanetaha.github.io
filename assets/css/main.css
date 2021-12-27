@@ -3448,7 +3448,7 @@ input, select, textarea {
 
 	#banner {
 		background-attachment: fixed;
-		background-color: #272833;
+		/*background-color: #272833;*/
 		background-image: url("../../images/background02.PNG");
 		background-position: center center;
 		background-size: cover;
