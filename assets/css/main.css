@@ -3482,7 +3482,7 @@ input, select, textarea {
 		/*}*/
 
 		#banner .content {
-			display: inline-block;
+			display: block;
 			margin-right: 1%;
 			max-width: 95%;
 			padding: 6em;
